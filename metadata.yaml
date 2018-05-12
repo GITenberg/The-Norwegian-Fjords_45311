@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26663
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Heaton_Cooper
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45311#The-Norwegian-Fjords
 gutenberg_issued: '2014-04-03'
 gutenberg_type: Text
 identifiers:
